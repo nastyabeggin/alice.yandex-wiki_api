@@ -20,5 +20,5 @@
 * секретный код 😎
 
 
-Запуск main.py через [PythonAnywhere](https://www.pythonanywhere.com/)
+Запуск через 
 [Навык Алисы](https://alice.ya.ru/s/032c198b-64bc-454f-a9fc-2be7a172d721)
