@@ -21,5 +21,5 @@
 
 
 Запуск main.py через [PythonAnywhere](https://www.pythonanywhere.com/)
-https://dialogs.yandex.ru/developer/skills/032c198b-64bc-454f-a9fc-2be7a172d721/rating
+Навык Опубликован!! - https://dialogs.yandex.ru/developer/skills/032c198b-64bc-454f-a9fc-2be7a172d721/rating
 
